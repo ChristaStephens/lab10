@@ -37,15 +37,7 @@ public class MovieConstructors {
 		
 	}
 	
-	public <ArrayList> String genre () {
-		return " Drama " + " Adventure " + " Action " +" Science Fiction "+ 
-				" Horror " +" Musical/Adventure " + " Animation/Romance " +" Family Film " +" Cartoon "; // may need to add types of categories here?
-	}
 	
-	public <ArrayList> String movies() {
-		return " Forest Gump " + " Life of Pi " + " Marvel's Black Panther" +
-				" Marvel's Dr. Strange "+" The Signal "+" Moana " + " Aladdin " +" Coco "+ " Steven Universe ";
-	}
 	
 //	@Override
 //	public String toString() {
